@@ -30,10 +30,9 @@ The School Management System is a command-line application that allows teachers 
 ## Usage
 - Run the application:
 
-
  - python main.py
  - Choose your role:
 
- - Enter 1 for Teacher.
- - Enter 2 for Student.
- - Follow the prompts to perform various actions based on your role.
+  - Enter 1 for Teacher.
+  - Enter 2 for Student.
+  - Follow the prompts to perform various actions based on your role.
